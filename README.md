@@ -37,7 +37,7 @@ Zocket-Product-Management-App is a backend application built using the Go progra
 ## Project Structure
 
 ```plaintext
-zocket-assignment01/
+RA2111003010505_Zocket_Assignment/
 ├── api/
 │   ├── handlers.go
 │   └── routes.go
@@ -118,8 +118,7 @@ go run cmd/main.go
 The server will start, and you should see something like:
 
 ```
-Connected to MongoDB
-Server started on :8080
+Bravo, Product Management Application is running
 ```
 
 Your API will be available at `http://localhost:8080`.
