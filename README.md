@@ -190,7 +190,3 @@ Feel free to fork the repository and create a pull request. Contributions are al
 6. Submit a pull request.
 
 ---
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
